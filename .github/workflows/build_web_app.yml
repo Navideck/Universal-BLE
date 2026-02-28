@@ -27,9 +27,9 @@ jobs:
         run: flutter pub get
 
       - name: Build Web App
-        run: cd example && flutter build web --base-href=/${{ github.event.repository.name }}/
+        run: flutter build web --base-href=/${{ github.event.repository.name }}/
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: example/build/web
+          folder: build/web
