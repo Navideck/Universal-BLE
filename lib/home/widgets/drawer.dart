@@ -165,7 +165,7 @@ class _AppDrawerState extends State<AppDrawer> {
                           recognizer: TapGestureRecognizer()
                             ..onTap = () {
                               launchUrl(Uri.parse(
-                                  "https://github.com/Navideck/Universal-BLE"));
+                                  "https://github.com/Navideck/universal-ble"));
                             },
                         ),
                         const TextSpan(text: "."),

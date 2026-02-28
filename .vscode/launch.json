@@ -6,18 +6,18 @@
     "configurations": [
     
         {
-            "name": "Universal-BLE",
+            "name": "universal-ble",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "Universal-BLE (profile mode)",
+            "name": "universal-ble (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "Universal-BLE (release mode)",
+            "name": "universal-ble (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
