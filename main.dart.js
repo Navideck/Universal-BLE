@@ -99183,7 +99183,7 @@ n.O=new A.aq8()
 return new A.ug(B.rp,"Universal BLE",A.j(p)+" ("+A.j(r)+")",k,"\xa9 2023 Navideck",A.b([B.ns,q,B.ns,A.Rx(m,m,m,B.bc,m,m,!0,m,A.db(A.b([B.Xb,A.db(m,m,m,m,m,n,m,m,m,s,"Hire us")],o),m,m,m,m,m,m,m,m,j,m),B.dV,m,m,B.a8,B.ai)],t.p),m)},
 $S:632}
 A.aq7.prototype={
-$0(){A.aFV(A.fP("https://github.com/Navideck/Universal-BLE",0,null))},
+$0(){A.aFV(A.fP("https://github.com/Navideck/universal-ble",0,null))},
 $S:0}
 A.aq8.prototype={
 $0(){A.aFV(A.fP("https://navideck.com/contact",0,null))},
